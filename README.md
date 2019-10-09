@@ -1,3 +1,3 @@
-# burger
-- Code Bootcamp HW #14
-- A simple full stack project that utilizes html, css, javascript, node.js, express.js, handlebars, & mysql
+# sequelizeBurger
+- Code Bootcamp HW #16
+- A simple full stack project that utilizes HTML, CSS, JavaScript, Node, Express, Handlebars, MySQL, & Sequelize
